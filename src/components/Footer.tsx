@@ -5,11 +5,11 @@ const links = [
   },
   {
     label: "LinkedIn",
-    href: "https://www.linkedin.com/in/audrikduarte",
+    href: "https://www.linkedin.com/in/audrik-duarte-coelho-gonçalves-800b24306",
   },
   {
     label: "Instagram",
-    href: "https://www.instagram.com/audrikduarte",
+    href: "https://www.instagram.com/audrik_dcg",
   },
 ];
 
