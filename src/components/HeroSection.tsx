@@ -49,7 +49,7 @@ export default function HeroSection() {
           className="text-lg sm:text-xl font-normal text-zinc-500 max-w-xl leading-relaxed mb-10"
         >
           Estrutura que suporta. Espaço que serve.{" "}
-          <span className="text-zinc-700 font-medium">Design que inspira.</span>
+          <span className="text-zinc-700 font-medium">Arquitetura que inspira.</span>
         </motion.p>
 
         {/* CTA Buttons */}
@@ -67,11 +67,13 @@ export default function HeroSection() {
             Ver Projetos
           </a>
           <a
-            href="/curriculo.pdf"
+            href="/audrik-duarte-cv.pdf"
+            target="_blank"
+            rel="noopener noreferrer"
             download
             className="px-7 py-2.5 rounded-full border border-blue-600 text-blue-600 text-sm font-semibold hover:bg-blue-50 active:scale-95 transition-all duration-150"
           >
-            Download CV
+            Baixar
           </a>
         </motion.div>
 
