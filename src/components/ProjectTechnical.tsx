@@ -79,7 +79,7 @@ export default function ProjectTechnical({ project }: Props) {
             download
             className="inline-flex items-center gap-2 px-6 py-2.5 rounded-full border border-zinc-900 text-zinc-900 text-sm font-semibold hover:bg-zinc-900 hover:text-white active:scale-95 transition-all duration-200"
           >
-            Download CV
+            Download
           </a>
         </motion.div>
       </div>
