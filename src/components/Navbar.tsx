@@ -21,18 +21,17 @@ export default function Navbar() {
 
   return (
     <header
-      className={`fixed top-0 left-0 right-0 z-50 transition-all duration-300 ${
-        scrolled
+      className={`fixed top-0 left-0 right-0 z-50 transition-all duration-300 ${scrolled
           ? "bg-white/70 backdrop-blur-xl border-b border-zinc-200/60 shadow-sm"
           : "bg-transparent"
-      }`}
+        }`}
     >
       <nav className="max-w-6xl mx-auto px-6 h-14 flex items-center justify-between">
         <Link
           href="/"
           className="text-sm font-semibold tracking-tight text-zinc-900 hover:text-zinc-600 transition-colors"
         >
-          AE Studio
+          PORTIFOLIO - Audrik Duarte Coelho Gonçalves
         </Link>
 
         <ul className="flex items-center gap-8">
